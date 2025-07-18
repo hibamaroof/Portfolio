@@ -422,7 +422,7 @@ align-items: center;
 .work-container {
   flex-wrap: wrap;
   /* width: auto; */
-  padding: 10px 30px;
+  padding: 10px 0;
   /* align-items: center; */
   justify-content: center;
 }
